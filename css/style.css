@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to top, #cddff0 0%, white 100%);
+  background: #d3e1ef;
   font-family: sans-serif;
 }
 h1 {
@@ -39,7 +39,7 @@ select {
   max-width: 700px;
   margin: 0 auto;
   margin-top: 20px;
-  background-color: #c1dbf4;
+  background-color: #a8cef2;
   box-shadow: 0px 7px 29px rgb(198, 210, 224);
   border-radius: 10px;
   padding: 30px;
